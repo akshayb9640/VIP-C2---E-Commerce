@@ -1,0 +1,16 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Local database data
+mongodb_data/
+
+# Environment files
+server/.env
+
+# Production build output
+client/dist/
+
+# System files
+.DS_Store
+Thumbs.db
